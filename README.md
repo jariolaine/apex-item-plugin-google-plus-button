@@ -1,5 +1,6 @@
-# apex-item-plugin-google-plus-button
+![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Abandoned-orange.svg)
 
+# apex-item-plugin-google-plus-button
 
 ### DESCRIPTION
 
